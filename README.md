@@ -8,6 +8,7 @@ Currently diving deep into Infrastructure as Code (IaC) using Bicep and Terrafor
 [Bicep](https://github.com/ozanberkpolat/Bicep) / [Terraform](https://github.com/ozanberkpolat/terraform)
 
 📂 Check out my PowerShell scripts here:
+
 [Powershell](https://github.com/ozanberkpolat/powershell)
 
 
