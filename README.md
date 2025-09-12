@@ -4,7 +4,7 @@ Cloud Engineer focused on Microsoft Azure ☁️
 Currently diving deep into Infrastructure as Code (IaC) using Bicep and Terraform.
 
 ### 🌐 Portfolio & Repositories
-[🌟 My Portfolio](https://ozanberkpolat.github.io)  
+[![Portfolio](https://img.shields.io/badge/🌟-My_Portfolio-blue?style=for-the-badge)](https://ozanberkpolat.github.io)
 
 - [![Bicep](https://img.shields.io/badge/Bicep-4D77FF?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/ozanberkpolat/Bicep)  
 - [![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/ozanberkpolat/Terraform)  
