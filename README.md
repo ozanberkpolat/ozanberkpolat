@@ -6,7 +6,7 @@ Currently diving deep into Infrastructure as Code (IaC) using Bicep and Terrafor
 ### 🌐 Portfolio
 [![Portfolio](https://img.shields.io/badge/🌟-My_Portfolio-blue?style=for-the-badge)](https://ozanberkpolat.github.io)
 
-Some highlights:  
+Here are my repositories that I work on:  
 - 🏗️ **Bicep Templates:** Automating scalable Azure deployments → [![Bicep](https://img.shields.io/badge/Bicep-4D77FF?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/ozanberkpolat/Bicep)  
 - 🏗️ **Terraform Modules:** Learning and building reusable IaC modules → [![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/ozanberkpolat)  
 - ⚡ **PowerShell Scripts:** Automating IT operations → [![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/ozanberkpolat)
