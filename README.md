@@ -9,8 +9,8 @@ Currently diving deep into Infrastructure as Code (IaC) using Bicep and Terrafor
 ### 💻 Repositories
 
 [![Bicep](https://img.shields.io/badge/Bicep-4D77FF?style=for-the-badge)](https://github.com/ozanberkpolat/Bicep)
-[![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/ozanberkpolat)  
-[![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=for-the-badge)](https://github.com/ozanberkpolat) kpolat)
+[![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/ozanberkpolat/Terraform)  
+[![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=for-the-badge)](https://github.com/ozanberkpolat/Powershell)
 
 ---
 
