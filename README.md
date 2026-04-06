@@ -6,7 +6,7 @@ Working as a Cloud Consultant @D724
 ---
 
 ### 🌐 More About Me
-[![More About Me](https://img.shields.io/badge/🌟-blue?style=for-the-badge)](https://ozanberkpolat.github.io/about/)
+[![More About Me](https://img.shields.io/badge/🌟About-blue?style=for-the-badge)](https://ozanberkpolat.github.io/about/)
 
 ---
 
