@@ -16,7 +16,3 @@
   <br><br>
   <a href="https://www.linkedin.com/in/ozan-berk-polat/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
-<br>
-
-<p align="center">🛠️ Always building, breaking, and learning.</p>
