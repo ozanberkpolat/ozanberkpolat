@@ -1,15 +1,22 @@
-# Hi, I'm Ozan Berk Polat also known as OBP 👋
+<h1 align="center">Hi, I'm Ozan Berk Polat also known as OBP 👋</h1>
 
-Cloud Engineer focused on Microsoft Azure ☁️  
-Working as a Cloud Consultant @D724
+<p align="center">
+  Cloud Engineer focused on Microsoft Azure ☁️<br>
+  Working as a Cloud Consultant @D724
+</p>
 
----
+<br>
 
-[![About Me](https://img.shields.io/badge/🌟_About_Me-blue?style=for-the-badge)](https://blog.obp.com.tr/about)
-[![Website](https://img.shields.io/badge/🌐_Website-teal?style=for-the-badge)](https://obp.com.tr)
-[![Blog](https://img.shields.io/badge/✍️_Blog-orange?style=for-the-badge)](https://blog.obp.com.tr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozan-berk-polat/)
+<p align="center">
+  <a href="https://blog.obp.com.tr/about"><img src="https://img.shields.io/badge/🌟_About_Me-blue?style=for-the-badge" /></a>
+  <br><br>
+  <a href="https://obp.com.tr"><img src="https://img.shields.io/badge/🌐_Website-teal?style=for-the-badge" /></a>
+  <br><br>
+  <a href="https://blog.obp.com.tr"><img src="https://img.shields.io/badge/✍️_Blog-orange?style=for-the-badge" /></a>
+  <br><br>
+  <a href="https://www.linkedin.com/in/ozan-berk-polat/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
----
+<br>
 
-🛠️ Always building, breaking, and learning.
+<p align="center">🛠️ Always building, breaking, and learning.</p>
