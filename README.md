@@ -9,6 +9,8 @@ Working as a Cloud Consultant @D724
 
 ---
 
-📫 Reach me on [**LinkedIn**](https://www.linkedin.com/in/ozan-berk-polat/) or check out my [**Blog**](https://ozanberkpolat.github.io/)  
+🌐 [**obp.com.tr**](https://obp.com.tr)  
+✍️ [**blog.obp.com.tr**](https://blog.obp.com.tr)  
+📫 [**LinkedIn**](https://www.linkedin.com/in/ozan-berk-polat/)
 
 🛠️ Always building, breaking, and learning.
