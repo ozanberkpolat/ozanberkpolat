@@ -18,12 +18,10 @@
 
 <h3 align="center">Latest from the blog</h3>
 
-<!-- BLOG-POST-LIST:START -->- [AKS Now Manages a StandardV2 NAT Gateway for You](https://blog.obp.com.tr/posts/aks-now-manages-a-standardv2-nat-gateway-for-you/) <sub>Oct 9, 2026</sub>
-- [PostgreSQL Flexible Server Lands in East US 3](https://blog.obp.com.tr/posts/postgresql-flexible-server-lands-in-east-us-3/) <sub>Oct 9, 2026</sub>
-- [Anyscale on Azure Is Now GA: Distributed Ray Workloads Straight on Your AKS Cluster](https://blog.obp.com.tr/posts/anyscale-on-azure-is-now-ga-distributed-ray-workloads-straight-on-your-aks-cluster/) <sub>Oct 8, 2026</sub>
-- [SQL Server on Linux Finally Gets the bulkadmin Role](https://blog.obp.com.tr/posts/sql-server-on-linux-finally-gets-the-bulkadmin-role/) <sub>Oct 8, 2026</sub>
-- [SQL Server on Azure VMs Lands in Azure Bleu, France&#39;s Sovereign Cloud](https://blog.obp.com.tr/posts/sql-server-on-azure-vms-lands-in-azure-bleu-frances-sovereign-cloud/) <sub>Oct 6, 2026</sub>
+<ul>
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+</ul>
 
 <h3 align="center">Certifications</h3>
 
