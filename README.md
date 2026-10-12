@@ -19,11 +19,11 @@
 <h3 align="center">Latest from the blog</h3>
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://blog.obp.com.tr/posts/aks-now-manages-a-standardv2-nat-gateway-for-you/">AKS Now Manages a StandardV2 NAT Gateway for You</a> <sub>Oct 9, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://blog.obp.com.tr/posts/do-your-tags-tell-the-truth/">Do Your VM Tags Tell the Truth? Checking Them Against Backup, ASR and Maintenance Configurations</a> <sub>Oct 11, 2026</sub></li>
+<li><a href="https://blog.obp.com.tr/posts/aks-now-manages-a-standardv2-nat-gateway-for-you/">AKS Now Manages a StandardV2 NAT Gateway for You</a> <sub>Oct 9, 2026</sub></li>
 <li><a href="https://blog.obp.com.tr/posts/postgresql-flexible-server-lands-in-east-us-3/">PostgreSQL Flexible Server Lands in East US 3</a> <sub>Oct 9, 2026</sub></li>
 <li><a href="https://blog.obp.com.tr/posts/anyscale-on-azure-is-now-ga-distributed-ray-workloads-straight-on-your-aks-cluster/">Anyscale on Azure Is Now GA: Distributed Ray Workloads Straight on Your AKS Cluster</a> <sub>Oct 8, 2026</sub></li>
 <li><a href="https://blog.obp.com.tr/posts/sql-server-on-linux-finally-gets-the-bulkadmin-role/">SQL Server on Linux Finally Gets the bulkadmin Role</a> <sub>Oct 8, 2026</sub></li>
-<li><a href="https://blog.obp.com.tr/posts/sql-server-on-azure-vms-lands-in-azure-bleu-frances-sovereign-cloud/">SQL Server on Azure VMs Lands in Azure Bleu, France&#39;s Sovereign Cloud</a> <sub>Oct 6, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
