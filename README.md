@@ -19,11 +19,11 @@
 <h3 align="center">Latest from the blog</h3>
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://blog.obp.com.tr/posts/automatic-zone-balance-for-vm-scale-sets-is-now-ga/">Automatic Zone Balance for VM Scale Sets Is Now GA</a> <sub>Oct 16, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://blog.obp.com.tr/posts/keep-your-keys-outside-azure-external-key-management-for-managed-hsm-is-ga/">Keep Your Keys Outside Azure: External Key Management for Managed HSM Is GA</a> <sub>Oct 17, 2026</sub></li>
+<li><a href="https://blog.obp.com.tr/posts/automatic-zone-balance-for-vm-scale-sets-is-now-ga/">Automatic Zone Balance for VM Scale Sets Is Now GA</a> <sub>Oct 16, 2026</sub></li>
 <li><a href="https://blog.obp.com.tr/posts/standard-service-endpoint-is-now-ga-private-link-scale-for-iaas-to-paas-traffic/">Standard Service Endpoint Is Now GA: Private Link Scale for IaaS-to-PaaS Traffic</a> <sub>Oct 16, 2026</sub></li>
 <li><a href="https://blog.obp.com.tr/posts/azure-cloud-hsm-now-writes-hardware-level-audit-logs/">Azure Cloud HSM Now Writes Hardware-Level Audit Logs</a> <sub>Oct 15, 2026</sub></li>
 <li><a href="https://blog.obp.com.tr/posts/azure-site-recovery-now-protects-azure-arc-enabled-windows-vmware-and-physical-servers/">Azure Site Recovery Now Protects Azure Arc-Enabled Windows VMware and Physical Servers</a> <sub>Oct 15, 2026</sub></li>
-<li><a href="https://blog.obp.com.tr/posts/do-your-tags-tell-the-truth/">Do Your VM Tags Tell the Truth? Checking Them Against Backup, ASR and Maintenance Configurations</a> <sub>Oct 11, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
