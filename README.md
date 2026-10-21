@@ -19,11 +19,11 @@
 <h3 align="center">Latest from the blog</h3>
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://blog.obp.com.tr/posts/azure-dns-now-load-balances-directly-through-traffic-manager-linked-records/">Azure DNS Now Load Balances Directly Through Traffic Manager Linked Records</a> <sub>Oct 20, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://blog.obp.com.tr/posts/keyless-tls-on-application-gateway-is-now-ga-with-managed-hsm/">Keyless TLS on Application Gateway Is Now GA with Managed HSM</a> <sub>Oct 21, 2026</sub></li>
+<li><a href="https://blog.obp.com.tr/posts/service-tags-now-match-in-azure-front-door-premium-waf-custom-rules/">Service Tags Now Match in Azure Front Door Premium WAF Custom Rules</a> <sub>Oct 21, 2026</sub></li>
+<li><a href="https://blog.obp.com.tr/posts/azure-dns-now-load-balances-directly-through-traffic-manager-linked-records/">Azure DNS Now Load Balances Directly Through Traffic Manager Linked Records</a> <sub>Oct 20, 2026</sub></li>
 <li><a href="https://blog.obp.com.tr/posts/metrics-usage-insights-for-azure-monitor-workspace-is-now-ga/">Metrics Usage Insights for Azure Monitor Workspace Is Now GA</a> <sub>Oct 20, 2026</sub></li>
 <li><a href="https://blog.obp.com.tr/posts/azure-retirement-email-triage/">&quot;Are We Affected?&quot; How I Answer Azure Retirement Emails From Inventory</a> <sub>Oct 18, 2026</sub></li>
-<li><a href="https://blog.obp.com.tr/posts/keep-your-keys-outside-azure-external-key-management-for-managed-hsm-is-ga/">Keep Your Keys Outside Azure: External Key Management for Managed HSM Is GA</a> <sub>Oct 17, 2026</sub></li>
-<li><a href="https://blog.obp.com.tr/posts/automatic-zone-balance-for-vm-scale-sets-is-now-ga/">Automatic Zone Balance for VM Scale Sets Is Now GA</a> <sub>Oct 16, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
