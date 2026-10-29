@@ -19,11 +19,11 @@
 <h3 align="center">Latest from the blog</h3>
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://blog.obp.com.tr/posts/1000-storage-accounts-per-region-azure-raises-the-quota-ceiling/">1,000 Storage Accounts per Region: Azure Raises the Quota Ceiling</a> <sub>Oct 28, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://blog.obp.com.tr/posts/marketplace-private-offers-get-simpler-enhancements-now-generally-available/">Marketplace Private Offers Get Simpler: Enhancements Now Generally Available</a> <sub>Oct 29, 2026</sub></li>
+<li><a href="https://blog.obp.com.tr/posts/1000-storage-accounts-per-region-azure-raises-the-quota-ceiling/">1,000 Storage Accounts per Region: Azure Raises the Quota Ceiling</a> <sub>Oct 28, 2026</sub></li>
 <li><a href="https://blog.obp.com.tr/posts/claude-spend-finally-lands-under-your-foundry-resource-in-azure-cost-management/">Claude Spend Finally Lands Under Your Foundry Resource in Azure Cost Management</a> <sub>Oct 28, 2026</sub></li>
 <li><a href="https://blog.obp.com.tr/posts/vnet-flow-logs-filtering-is-now-ga-log-only-the-traffic-that-matters/">VNet Flow Logs Filtering Is Now GA: Log Only the Traffic That Matters</a> <sub>Oct 27, 2026</sub></li>
 <li><a href="https://blog.obp.com.tr/posts/four-suspended-skus-on-a-licensing-group-blocked-every-new-user/">Four Suspended SKUs on a Licensing Group Blocked Every New User</a> <sub>Oct 25, 2026</sub></li>
-<li><a href="https://blog.obp.com.tr/posts/azure-backup-now-restores-single-files-from-premium-ssd-v2-and-ultra-disk-vms/">Azure Backup Now Restores Single Files from Premium SSD v2 and Ultra Disk VMs</a> <sub>Oct 24, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
