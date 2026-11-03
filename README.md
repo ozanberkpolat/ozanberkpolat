@@ -19,11 +19,11 @@
 <h3 align="center">Latest from the blog</h3>
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://blog.obp.com.tr/posts/an-os-disk-snapshot-is-not-a-rollback-when-lvm-spans-two-disks/">An OS Disk Snapshot Is Not a Rollback When LVM Spans Two Disks</a> <sub>Nov 1, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://blog.obp.com.tr/posts/azure-storage-actions-is-ga-with-auto-updating-tasks-and-tighter-execution-controls/">Azure Storage Actions Is GA With Auto-Updating Tasks and Tighter Execution Controls</a> <sub>Nov 3, 2026</sub></li>
+<li><a href="https://blog.obp.com.tr/posts/postgresql-flexible-server-move-from-vnet-integration-to-private-endpoints/">PostgreSQL Flexible Server: Move from VNet Integration to Private Endpoints</a> <sub>Nov 3, 2026</sub></li>
+<li><a href="https://blog.obp.com.tr/posts/an-os-disk-snapshot-is-not-a-rollback-when-lvm-spans-two-disks/">An OS Disk Snapshot Is Not a Rollback When LVM Spans Two Disks</a> <sub>Nov 1, 2026</sub></li>
 <li><a href="https://blog.obp.com.tr/posts/azure-front-door-premium-waf-gets-a-managed-http-ddos-ruleset-now-ga/">Azure Front Door Premium WAF Gets a Managed HTTP DDoS Ruleset, Now GA</a> <sub>Oct 30, 2026</sub></li>
 <li><a href="https://blog.obp.com.tr/posts/large-os-disk-encryption-is-ga-for-azure-confidential-vm-migrations/">Large OS Disk Encryption Is GA for Azure Confidential VM Migrations</a> <sub>Oct 30, 2026</sub></li>
-<li><a href="https://blog.obp.com.tr/posts/marketplace-private-offers-get-simpler-enhancements-now-generally-available/">Marketplace Private Offers Get Simpler: Enhancements Now Generally Available</a> <sub>Oct 29, 2026</sub></li>
-<li><a href="https://blog.obp.com.tr/posts/1000-storage-accounts-per-region-azure-raises-the-quota-ceiling/">1,000 Storage Accounts per Region: Azure Raises the Quota Ceiling</a> <sub>Oct 28, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
