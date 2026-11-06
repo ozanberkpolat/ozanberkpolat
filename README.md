@@ -19,11 +19,11 @@
 <h3 align="center">Latest from the blog</h3>
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://blog.obp.com.tr/posts/postgresql-flexible-server-gets-a-stable-2026-10-01-rest-api/">PostgreSQL Flexible Server Gets a Stable 2026-10-01 REST API</a> <sub>Nov 5, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://blog.obp.com.tr/posts/azure-front-door-gets-post-quantum-tls-key-exchange-policies/">Azure Front Door Gets Post-Quantum TLS Key Exchange Policies</a> <sub>Nov 6, 2026</sub></li>
+<li><a href="https://blog.obp.com.tr/posts/waf-insights-for-application-gateway-is-now-generally-available/">WAF Insights for Application Gateway Is Now Generally Available</a> <sub>Nov 6, 2026</sub></li>
+<li><a href="https://blog.obp.com.tr/posts/postgresql-flexible-server-gets-a-stable-2026-10-01-rest-api/">PostgreSQL Flexible Server Gets a Stable 2026-10-01 REST API</a> <sub>Nov 5, 2026</sub></li>
 <li><a href="https://blog.obp.com.tr/posts/azure-site-recovery-now-handles-vmss-flex-disaster-recovery-properly/">Azure Site Recovery Now Handles VMSS Flex Disaster Recovery Properly</a> <sub>Nov 4, 2026</sub></li>
 <li><a href="https://blog.obp.com.tr/posts/azure-storage-actions-is-ga-with-auto-updating-tasks-and-tighter-execution-controls/">Azure Storage Actions Is GA With Auto-Updating Tasks and Tighter Execution Controls</a> <sub>Nov 3, 2026</sub></li>
-<li><a href="https://blog.obp.com.tr/posts/postgresql-flexible-server-move-from-vnet-integration-to-private-endpoints/">PostgreSQL Flexible Server: Move from VNet Integration to Private Endpoints</a> <sub>Nov 3, 2026</sub></li>
-<li><a href="https://blog.obp.com.tr/posts/an-os-disk-snapshot-is-not-a-rollback-when-lvm-spans-two-disks/">An OS Disk Snapshot Is Not a Rollback When LVM Spans Two Disks</a> <sub>Nov 1, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
