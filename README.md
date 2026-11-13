@@ -19,11 +19,11 @@
 <h3 align="center">Latest from the blog</h3>
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://blog.obp.com.tr/posts/azure-front-door-edge-actions-are-ga-run-javascript-at-the-edge/">Azure Front Door Edge Actions Are GA: Run JavaScript at the Edge</a> <sub>Nov 11, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://blog.obp.com.tr/posts/azure-front-door-premium-now-supports-mutual-tls-generally-available/">Azure Front Door Premium Now Supports Mutual TLS, Generally Available</a> <sub>Nov 13, 2026</sub></li>
+<li><a href="https://blog.obp.com.tr/posts/azure-front-door-edge-actions-are-ga-run-javascript-at-the-edge/">Azure Front Door Edge Actions Are GA: Run JavaScript at the Edge</a> <sub>Nov 11, 2026</sub></li>
 <li><a href="https://blog.obp.com.tr/posts/azure-functions-now-runs-net-11-in-ga/">Azure Functions Now Runs .NET 11 in GA</a> <sub>Nov 11, 2026</sub></li>
 <li><a href="https://blog.obp.com.tr/posts/azure-front-door-gets-post-quantum-tls-key-exchange-policies/">Azure Front Door Gets Post-Quantum TLS Key Exchange Policies</a> <sub>Nov 6, 2026</sub></li>
 <li><a href="https://blog.obp.com.tr/posts/waf-insights-for-application-gateway-is-now-generally-available/">WAF Insights for Application Gateway Is Now Generally Available</a> <sub>Nov 6, 2026</sub></li>
-<li><a href="https://blog.obp.com.tr/posts/postgresql-flexible-server-gets-a-stable-2026-10-01-rest-api/">PostgreSQL Flexible Server Gets a Stable 2026-10-01 REST API</a> <sub>Nov 5, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
