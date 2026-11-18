@@ -19,11 +19,11 @@
 <h3 align="center">Latest from the blog</h3>
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://blog.obp.com.tr/posts/azure-front-door-premium-now-supports-mutual-tls-generally-available/">Azure Front Door Premium Now Supports Mutual TLS, Generally Available</a> <sub>Nov 13, 2026</sub></li>
-<li><a href="https://blog.obp.com.tr/posts/azure-front-door-edge-actions-are-ga-run-javascript-at-the-edge/">Azure Front Door Edge Actions Are GA: Run JavaScript at the Edge</a> <sub>Nov 11, 2026</sub></li>
-<li><a href="https://blog.obp.com.tr/posts/azure-functions-now-runs-net-11-in-ga/">Azure Functions Now Runs .NET 11 in GA</a> <sub>Nov 11, 2026</sub></li>
-<li><a href="https://blog.obp.com.tr/posts/azure-front-door-gets-post-quantum-tls-key-exchange-policies/">Azure Front Door Gets Post-Quantum TLS Key Exchange Policies</a> <sub>Nov 6, 2026</sub></li>
-<li><a href="https://blog.obp.com.tr/posts/waf-insights-for-application-gateway-is-now-generally-available/">WAF Insights for Application Gateway Is Now Generally Available</a> <sub>Nov 6, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://blog.obp.com.tr/posts/agent-365-adds-action-center-agent-map-insights-and-mcp-governance/">Agent 365 Adds Action Center, Agent Map Insights and MCP Governance</a> <sub>Nov 18, 2026</sub></li>
+<li><a href="https://blog.obp.com.tr/posts/azure-ai-gateway-is-ga-as-a-standalone-managed-service/">Azure AI Gateway Is GA as a Standalone Managed Service</a> <sub>Nov 18, 2026</sub></li>
+<li><a href="https://blog.obp.com.tr/posts/azure-catalyst-unifies-agentic-migration-and-modernization-across-azure-and-github/">Azure Catalyst Unifies Agentic Migration and Modernization Across Azure and GitHub</a> <sub>Nov 18, 2026</sub></li>
+<li><a href="https://blog.obp.com.tr/posts/azure-chaos-studio-workspaces-and-the-aks-extension-reach-ga/">Azure Chaos Studio Workspaces and the AKS Extension Reach GA</a> <sub>Nov 18, 2026</sub></li>
+<li><a href="https://blog.obp.com.tr/posts/azure-horizondb-postgresql-compatible-service-is-generally-available/">Azure HorizonDB, PostgreSQL-Compatible Service, Is Generally Available</a> <sub>Nov 18, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
