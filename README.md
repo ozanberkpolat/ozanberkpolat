@@ -19,11 +19,11 @@
 <h3 align="center">Latest from the blog</h3>
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://blog.obp.com.tr/posts/agent-365-adds-action-center-agent-map-insights-and-mcp-governance/">Agent 365 Adds Action Center, Agent Map Insights and MCP Governance</a> <sub>Nov 18, 2026</sub></li>
-<li><a href="https://blog.obp.com.tr/posts/azure-ai-gateway-is-ga-as-a-standalone-managed-service/">Azure AI Gateway Is GA as a Standalone Managed Service</a> <sub>Nov 18, 2026</sub></li>
-<li><a href="https://blog.obp.com.tr/posts/azure-catalyst-unifies-agentic-migration-and-modernization-across-azure-and-github/">Azure Catalyst Unifies Agentic Migration and Modernization Across Azure and GitHub</a> <sub>Nov 18, 2026</sub></li>
-<li><a href="https://blog.obp.com.tr/posts/azure-chaos-studio-workspaces-and-the-aks-extension-reach-ga/">Azure Chaos Studio Workspaces and the AKS Extension Reach GA</a> <sub>Nov 18, 2026</sub></li>
-<li><a href="https://blog.obp.com.tr/posts/azure-horizondb-postgresql-compatible-service-is-generally-available/">Azure HorizonDB, PostgreSQL-Compatible Service, Is Generally Available</a> <sub>Nov 18, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://blog.obp.com.tr/posts/agent-365-adds-finops-for-ai-with-cost-management-and-forecasting/">Agent 365 Adds FinOps for AI With Cost Management and Forecasting</a> <sub>Nov 19, 2026</sub></li>
+<li><a href="https://blog.obp.com.tr/posts/agent-365-usage-insights-now-visible-for-microsoft-agents-without-a-license/">Agent 365 Usage Insights Now Visible for Microsoft Agents Without a License</a> <sub>Nov 19, 2026</sub></li>
+<li><a href="https://blog.obp.com.tr/posts/agent-grid-preview-adds-zero-trust-network-security-for-ai-agents/">Agent Grid Preview Adds Zero Trust Network Security for AI Agents</a> <sub>Nov 19, 2026</sub></li>
+<li><a href="https://blog.obp.com.tr/posts/agent-sandbox-cluster-extension-for-aks-is-in-public-preview/">Agent Sandbox Cluster Extension for AKS Is in Public Preview</a> <sub>Nov 19, 2026</sub></li>
+<li><a href="https://blog.obp.com.tr/posts/ai-bot-ruleset-for-azure-front-door-premium-waf-is-in-public-preview/">AI Bot Ruleset for Azure Front Door Premium WAF Is in Public Preview</a> <sub>Nov 19, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
