@@ -19,11 +19,11 @@
 <h3 align="center">Latest from the blog</h3>
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://blog.obp.com.tr/posts/agent-365-adds-finops-for-ai-with-cost-management-and-forecasting/">Agent 365 Adds FinOps for AI With Cost Management and Forecasting</a> <sub>Nov 19, 2026</sub></li>
-<li><a href="https://blog.obp.com.tr/posts/agent-365-usage-insights-now-visible-for-microsoft-agents-without-a-license/">Agent 365 Usage Insights Now Visible for Microsoft Agents Without a License</a> <sub>Nov 19, 2026</sub></li>
-<li><a href="https://blog.obp.com.tr/posts/agent-grid-preview-adds-zero-trust-network-security-for-ai-agents/">Agent Grid Preview Adds Zero Trust Network Security for AI Agents</a> <sub>Nov 19, 2026</sub></li>
-<li><a href="https://blog.obp.com.tr/posts/agent-sandbox-cluster-extension-for-aks-is-in-public-preview/">Agent Sandbox Cluster Extension for AKS Is in Public Preview</a> <sub>Nov 19, 2026</sub></li>
-<li><a href="https://blog.obp.com.tr/posts/ai-bot-ruleset-for-azure-front-door-premium-waf-is-in-public-preview/">AI Bot Ruleset for Azure Front Door Premium WAF Is in Public Preview</a> <sub>Nov 19, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://blog.obp.com.tr/posts/aks-confidential-vm-node-pools-get-os-disk-encryption-in-preview/">AKS Confidential VM Node Pools Get OS Disk Encryption in Preview</a> <sub>Nov 20, 2026</sub></li>
+<li><a href="https://blog.obp.com.tr/posts/aks-confidential-vm-node-pools-now-support-intel-tdx/">AKS Confidential VM Node Pools Now Support Intel TDX</a> <sub>Nov 20, 2026</sub></li>
+<li><a href="https://blog.obp.com.tr/posts/aks-pod-sandboxing-adds-kata-vm-isolation-v2-runtime-class-in-preview/">AKS Pod Sandboxing Adds kata-vm-isolation-v2 Runtime Class in Preview</a> <sub>Nov 20, 2026</sub></li>
+<li><a href="https://blog.obp.com.tr/posts/app-service-geo-redundancy-enters-public-preview/">App Service Geo-Redundancy Enters Public Preview</a> <sub>Nov 20, 2026</sub></li>
+<li><a href="https://blog.obp.com.tr/posts/application-gateway-adds-centralized-user-authentication-and-jwt-validation/">Application Gateway Adds Centralized User Authentication and JWT Validation</a> <sub>Nov 20, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
