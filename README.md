@@ -19,11 +19,11 @@
 <h3 align="center">Latest from the blog</h3>
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://blog.obp.com.tr/posts/aks-confidential-vm-node-pools-get-os-disk-encryption-in-preview/">AKS Confidential VM Node Pools Get OS Disk Encryption in Preview</a> <sub>Nov 20, 2026</sub></li>
-<li><a href="https://blog.obp.com.tr/posts/aks-confidential-vm-node-pools-now-support-intel-tdx/">AKS Confidential VM Node Pools Now Support Intel TDX</a> <sub>Nov 20, 2026</sub></li>
-<li><a href="https://blog.obp.com.tr/posts/aks-pod-sandboxing-adds-kata-vm-isolation-v2-runtime-class-in-preview/">AKS Pod Sandboxing Adds kata-vm-isolation-v2 Runtime Class in Preview</a> <sub>Nov 20, 2026</sub></li>
-<li><a href="https://blog.obp.com.tr/posts/app-service-geo-redundancy-enters-public-preview/">App Service Geo-Redundancy Enters Public Preview</a> <sub>Nov 20, 2026</sub></li>
-<li><a href="https://blog.obp.com.tr/posts/application-gateway-adds-centralized-user-authentication-and-jwt-validation/">Application Gateway Adds Centralized User Authentication and JWT Validation</a> <sub>Nov 20, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://blog.obp.com.tr/posts/api-management-premium-v2-is-now-available-in-35-azure-regions/">API Management Premium v2 Is Now Available in 35 Azure Regions</a> <sub>Nov 21, 2026</sub></li>
+<li><a href="https://blog.obp.com.tr/posts/application-gateway-adds-advanced-load-balancing-in-public-preview/">Application Gateway Adds Advanced Load Balancing in Public Preview</a> <sub>Nov 21, 2026</sub></li>
+<li><a href="https://blog.obp.com.tr/posts/azure-compute-spot-plus-adds-steadier-runtime-and-earlier-eviction-signals/">Azure Compute Spot Plus Adds Steadier Runtime and Earlier Eviction Signals</a> <sub>Nov 21, 2026</sub></li>
+<li><a href="https://blog.obp.com.tr/posts/azure-database-for-mysql-now-supports-renaming-a-server-in-ga/">Azure Database for MySQL Now Supports Renaming a Server in GA</a> <sub>Nov 21, 2026</sub></li>
+<li><a href="https://blog.obp.com.tr/posts/azure-database-for-mysql-supports-premium-ssd-v2-in-public-preview/">Azure Database for MySQL Supports Premium SSD v2 in Public Preview</a> <sub>Nov 21, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
