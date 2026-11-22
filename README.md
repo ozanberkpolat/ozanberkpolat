@@ -19,11 +19,11 @@
 <h3 align="center">Latest from the blog</h3>
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://blog.obp.com.tr/posts/api-management-premium-v2-is-now-available-in-35-azure-regions/">API Management Premium v2 Is Now Available in 35 Azure Regions</a> <sub>Nov 21, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://blog.obp.com.tr/posts/ignite-2026-what-i-would-act-on-as-an-azure-and-security-engineer/">Ignite 2026: What I Would Act On as an Azure and Security Engineer</a> <sub>Nov 22, 2026</sub></li>
+<li><a href="https://blog.obp.com.tr/posts/api-management-premium-v2-is-now-available-in-35-azure-regions/">API Management Premium v2 Is Now Available in 35 Azure Regions</a> <sub>Nov 21, 2026</sub></li>
 <li><a href="https://blog.obp.com.tr/posts/application-gateway-adds-advanced-load-balancing-in-public-preview/">Application Gateway Adds Advanced Load Balancing in Public Preview</a> <sub>Nov 21, 2026</sub></li>
 <li><a href="https://blog.obp.com.tr/posts/azure-compute-spot-plus-adds-steadier-runtime-and-earlier-eviction-signals/">Azure Compute Spot Plus Adds Steadier Runtime and Earlier Eviction Signals</a> <sub>Nov 21, 2026</sub></li>
 <li><a href="https://blog.obp.com.tr/posts/azure-database-for-mysql-now-supports-renaming-a-server-in-ga/">Azure Database for MySQL Now Supports Renaming a Server in GA</a> <sub>Nov 21, 2026</sub></li>
-<li><a href="https://blog.obp.com.tr/posts/azure-database-for-mysql-supports-premium-ssd-v2-in-public-preview/">Azure Database for MySQL Supports Premium SSD v2 in Public Preview</a> <sub>Nov 21, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
