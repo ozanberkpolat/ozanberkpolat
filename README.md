@@ -19,11 +19,11 @@
 <h3 align="center">Latest from the blog</h3>
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://blog.obp.com.tr/posts/azure-speech-hd-v3-voices-now-take-style-and-instruction-control/">Azure Speech HD V3 Voices Now Take Style and Instruction Control</a> <sub>Nov 24, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://blog.obp.com.tr/posts/azure-storage-permissions-now-drive-access-in-azure-ai-search-and-foundry-iq/">Azure Storage Permissions Now Drive Access in Azure AI Search and Foundry IQ</a> <sub>Nov 25, 2026</sub></li>
+<li><a href="https://blog.obp.com.tr/posts/ultra-disks-get-zonal-disaster-recovery-with-azure-site-recovery/">Ultra Disks Get Zonal Disaster Recovery with Azure Site Recovery</a> <sub>Nov 25, 2026</sub></li>
+<li><a href="https://blog.obp.com.tr/posts/azure-speech-hd-v3-voices-now-take-style-and-instruction-control/">Azure Speech HD V3 Voices Now Take Style and Instruction Control</a> <sub>Nov 24, 2026</sub></li>
 <li><a href="https://blog.obp.com.tr/posts/foundry-agent-insights-is-now-ga-find-why-your-agents-fail/">Foundry Agent Insights Is Now GA: Find Why Your Agents Fail</a> <sub>Nov 24, 2026</sub></li>
 <li><a href="https://blog.obp.com.tr/posts/ignite-2026-what-i-would-act-on-as-an-azure-and-security-engineer/">Ignite 2026: What I Would Act On as an Azure and Security Engineer</a> <sub>Nov 22, 2026</sub></li>
-<li><a href="https://blog.obp.com.tr/posts/api-management-premium-v2-is-now-available-in-35-azure-regions/">API Management Premium v2 Is Now Available in 35 Azure Regions</a> <sub>Nov 21, 2026</sub></li>
-<li><a href="https://blog.obp.com.tr/posts/application-gateway-adds-advanced-load-balancing-in-public-preview/">Application Gateway Adds Advanced Load Balancing in Public Preview</a> <sub>Nov 21, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
